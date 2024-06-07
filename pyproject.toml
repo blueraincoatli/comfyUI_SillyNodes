@@ -10,6 +10,6 @@ Repository = "https://github.com/blueraincoatli/comfyUI_SillyNodes"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "blueraincoatli"
 DisplayName = "comfyUI_SillyNodes"
 Icon = ""
