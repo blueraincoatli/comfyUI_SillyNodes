@@ -2,7 +2,7 @@
 name = "comfyui_sillynodes"
 description = "Using rgthree's fast_group_muter and bookmark nodes, introduce the pyautogui library to simulate clicks and hotkeys, and run groups in sequence. screen manipulation is involved"
 version = "1.0.1"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies = ["pyautogui", "keyboard"]
 
 [project.urls]
